@@ -1,6 +1,6 @@
-# Smile Mask Only 🎭
+# Smiling Mask Only 🎭
 
-**Smile Mask Only** is a 2D game developed using Unity during **Global Game Jam 2026** by **Nova Games**, based on the theme **"Mask"**.
+**Smiling Mask Only** is a 2D game developed using Unity during **Global Game Jam 2026** by **Nova Games**, based on the theme **"Mask"**.
 
 In a world where only smiling masks are allowed to enter the house, the player is tasked with protecting the house by **letting Smile Masks enter** while **shooting Not Smile Masks**. The player must make quick decisions as masks continuously approach from both sides of the screen.
 
@@ -9,8 +9,8 @@ In a world where only smiling masks are allowed to enter the house, the player i
 The player stands in the center of the screen and can move left and right to position themselves and aim their shots.
 
 * 😊 **Smile Mask** → Let it enter the house.
-* 😠 **Not Smile Mask** → Shoot it before it reaches the house.
-* 🎯 Shooting a Smile Mask → **Game Over**.
+* 😠 **Not  Mask** → Shoot it before it reaches the house.
+* 🎯 Shooting a  Mask → **Game Over**.
 * 🏠 Allowing a Not Smile Mask to enter the house → **Game Over**.
 
 As the score increases, the game becomes more challenging through faster mask movement and additional Not Smile Mask variations.
