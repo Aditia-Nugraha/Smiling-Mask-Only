@@ -1,6 +1,6 @@
-# Smiling Mask Only 🎭
+# Smile Mask Only 🎭
 
-**Smiling Mask Only** is a 2D game developed using Unity during **Global Game Jam 2026** by **Nova Games**, based on the theme **"Mask"**.
+**Smile Mask Only** is a 2D game developed using Unity during **Global Game Jam 2026** by **Nova Games**, based on the theme **"Mask"**.
 
 In a world where only smiling masks are allowed to enter the house, the player is tasked with protecting the house by **letting Smile Masks enter** while **shooting Not Smile Masks**. The player must make quick decisions as masks continuously approach from both sides of the screen.
 
@@ -9,8 +9,8 @@ In a world where only smiling masks are allowed to enter the house, the player i
 The player stands in the center of the screen and can move left and right to position themselves and aim their shots.
 
 * 😊 **Smile Mask** → Let it enter the house.
-* 😠 **Not  Mask** → Shoot it before it reaches the house.
-* 🎯 Shooting a  Mask → **Game Over**.
+* 😠 **Not Smile Mask** → Shoot it before it reaches the house.
+* 🎯 Shooting a Smile Mask → **Game Over**.
 * 🏠 Allowing a Not Smile Mask to enter the house → **Game Over**.
 
 As the score increases, the game becomes more challenging through faster mask movement and additional Not Smile Mask variations.
@@ -38,6 +38,27 @@ As the score increases, the game becomes more challenging through faster mask mo
 | `Space`             | Shoot      |
 | `Left Mouse Button` | Shoot      |
 
+## 📥 Download
+
+The latest playable build is available on the **GitHub Releases** page.
+
+👉 **[⬇️ Download Latest Release](../../releases/latest)**
+
+Download the latest release and extract the ZIP file before running the game.
+
+## 💻 Installation
+
+### Windows
+
+1. Download the latest release from the **[GitHub Releases](../../releases/latest)** page.
+2. Download the `.zip` file containing the game.
+3. Extract the ZIP file to a location of your choice.
+4. Open the extracted game folder.
+5. Run the `.exe` file to start the game.
+6. Enjoy **Smiling Mask Only**! 🎭
+
+> **Note:** Keep the `.exe` file and its accompanying game data folder in the same directory. Do not move or delete individual files from the extracted folder.
+
 ## 🛠️ Built With
 
 * **Unity**
@@ -52,13 +73,18 @@ The main project structure is organized as follows:
 
 ```text
 Assets/
-├── Animations/
-├── Audio/
+├── Environment/
+│   ├── MainMenu/
+├── Logo/
 ├── Prefabs/
 ├── Scenes/
 ├── Scripts/
+├── Settings/
+├── Sounds/
+│   ├── BGM/
 ├── Sprites/
-└── UI/
+│   ├── Mask/
+└── .../
 ```
 
 Some of the main scripts used in the project include:
@@ -95,7 +121,8 @@ To run the project in Unity:
 **Nova Games**
 
 Global Game Jam 2026
-![image](https://github.com/Aditia-Nugraha/Smiling-Mask-Only/blob/671780bdc27a428d8d0cb7409c7af2c84a6427dd/IMG_20260201_180510_681.jpg)
+
+---
 
 ## 📜 License
 
