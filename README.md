@@ -121,8 +121,7 @@ To run the project in Unity:
 **Nova Games**
 
 Global Game Jam 2026
-
----
+![image](https://github.com/Aditia-Nugraha/Smiling-Mask-Only/blob/671780bdc27a428d8d0cb7409c7af2c84a6427dd/IMG_20260201_180510_681.jpg)
 
 ## 📜 License
 
